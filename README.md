@@ -1,4 +1,4 @@
-<<<<<<<Sadhana (Meditation for all)
+<<<Sadhana (Meditation for all)>>>
 =======
 # Getting Started with Create React App
 
