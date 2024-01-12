@@ -46,12 +46,6 @@ const DescriptionBox = ({ product }) => {
           <p onClick={() => handleSectionClick("Overview")}>Overview</p>
         </div>
         <div className="descriptionbox-nav-box fade">
-          <p onClick={() => handleSectionClick("Video")}>Video</p>
-        </div>
-        <div className="descriptionbox-nav-box fade">
-          <p onClick={() => handleSectionClick("Trackers")}>Trackers</p>
-        </div>
-        <div className="descriptionbox-nav-box fade">
           <p onClick={() => handleSectionClick("TimeTable")}>TimeTable</p>
         </div>
         <div className="descriptionbox-nav-box fade">
